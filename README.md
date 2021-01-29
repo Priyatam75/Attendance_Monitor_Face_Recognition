@@ -10,4 +10,6 @@ This project marks attendance of students present in the picture
 <p> Install sqlitedb for storing the data of class</p>
 
 <h2> Result </h2>
-![alt text](https://github.com/Priyatam75/Attendance_Monitor_Face_Recognition/blob/main/attendance/output.jpg)
+<p align="center">
+  <img src="https://github.com/Priyatam75/Attendance_Monitor_Face_Recognition/blob/main/attendance/output.jpg" width="350" title="hover text">
+</p>
